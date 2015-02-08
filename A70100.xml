@@ -139,12 +139,19 @@ that Part of the WORLD. In Eight TOMES. </p>
 Printed for <hi>H. Rhodes</hi> next <hi>Bride-Lane</hi>
 in <hi>Fleetſtreet,</hi> and <hi>J. Harris</hi> at the
 <hi>Harrow</hi> in the <hi>Poultry.</hi> 1693.</p>
-                  <figure>
-                     <p>
-                        <hi>FRENCH</hi>
+                  <p>
+                     <pb facs="tcp:32919:2" rendition="simple:additions"/>
+                     <figure>
+                        <p>
+                           <hi>FRENCH</hi>
 F. H. van. Hove. <abbr>Sculp:</abbr>
-                     </p>
-                  </figure>
+                        </p>
+                     </figure>
+                     <pb facs="tcp:32919:2"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </p>
                </div>
                <div type="license">
                   <pb facs="tcp:32919:3"/>
@@ -1191,7 +1198,27 @@ are at the top of this Tower, you may
 Provence,</hi> the <hi>Dauphinate, Languedoc,
 Auvergne</hi> and <hi>Foreſt.</hi>
                      </p>
-                     <figure/>
+                     <p>Tho' this City ſtill enjoys a Parlia<g ref="char:EOLhyphen"/>ment,
+and an Univerſity for Law, Phy<g ref="char:EOLhyphen"/>ſick
+and Sciences, founded by <hi>Raimond</hi>
+V. Prince of <hi>Orange</hi> in the year 1365.
+it may be truely ſaid that there is no<g ref="char:EOLhyphen"/>thing
+now left, but the ſad remainders
+of the former Grandeur and Magnifi<g ref="char:EOLhyphen"/>cence,
+which formerly rendered it con<g ref="char:EOLhyphen"/>ſiderable.
+There is only the goodneſs
+of the Soil which never alters: for it
+produces generally whatever is neceſſa<g ref="char:EOLhyphen"/>ry
+for humane Life; and all the High-ways
+are border'd with white Mul<g ref="char:EOLhyphen"/>berry
+Trees that nouriſh an Infinite num<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:32919:20"/>
+                        <pb facs="tcp:32919:21"/>
+                        <figure/>
+                        <pb facs="tcp:32919:22"/>
+                        <pb n="27" facs="tcp:32919:22"/>
+of Silk-worms, which are a good
+part of the Wealth of the Inhabitants.</p>
                   </div>
                   <div n="5" type="chapter">
                      <head>CHAP. V. Of the Dauphinate and Vivarez.</head>
